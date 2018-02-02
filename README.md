@@ -19,4 +19,12 @@ use
 ```
 
 ## Demo
-[live demo](https://x-frame-options-bypass.herokuapp.com/)
+[live demo](http://x-frame-options-bypass.herokuapp.com/)
+
+---
+
+[nodejs](http://x-frame-options-bypass.herokuapp.com/?url=https://nodejs.org/en/)
+
+[stackoverflow](http://x-frame-options-bypass.herokuapp.com/?url=https://stackoverflow.com)
+
+[github](http://x-frame-options-bypass.herokuapp.com/?url=https://github.com/)
