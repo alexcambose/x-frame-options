@@ -1,6 +1,6 @@
 # x-frame-options
 x-frame-options bypass
-## Instalation
+## Installation
 ```text
 npm install
 ```
