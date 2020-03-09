@@ -2,7 +2,7 @@
 x-frame-options bypass
 ## Installation
 ```text
-npm install
+npm install --save express axios mime morgan
 ```
 ## Usage
 ```text
