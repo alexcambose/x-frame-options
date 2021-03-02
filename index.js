@@ -55,7 +55,7 @@ app.get('/', (req, res) => {
             res.send(data);
         }).catch(error => {
             console.log(error);
-            res.statusCode(500);
+            res.status(500);
             res.end("Error")
         });
 });
